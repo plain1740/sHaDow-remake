@@ -1,4 +1,4 @@
-🌑 sHaDow remake
+🌑 ## sHaDow remake
 “借着月光行走，是一件很孤独的事。”
 
 RE:sHaDow 是基于原版 Python 终端文字游戏《sHaDow》的 Unity 3D 完全重制版。
